@@ -26,5 +26,3 @@ sync your documents from S3 to the Knowledge Base and Test
 Ask questions not present in the documents uploaded
 <img width="907" height="667" alt="rag_outofcontext5" src="https://github.com/user-attachments/assets/52ab662a-2b09-45a3-91ea-28889ba8c774" />
 
-Check on retrieval only data source option to see the data directly as in the document
-<img width="901" height="837" alt="retrieval_only_data_source6" src="https://github.com/user-attachments/assets/f98a2e74-e839-42ec-b963-acbe2d23ff74" />
