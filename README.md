@@ -11,7 +11,8 @@ Build a powerful RAG chatbot from scratch in Amazon Bedrock that's an expert on 
 
 This is made possible when we use a special AI technique called RAG (Retrieval Augmented Generation), which is a way to train an AI chatbot on your personal documents. We'll learn how to do this on Amazon Bedrock, an AWS service that gives you access to AI models to bring into your applications.
 
-Build a Knowledge Base in Amazon Bedrock <img width="633" height="588" alt="KBase1" src="https://github.com/user-attachments/assets/7079cacb-a2a7-405c-ab8f-f3eb56c332d9" />
+Build a Knowledge Base in Amazon Bedrock
+<img width="633" height="588" alt="KBase1" src="https://github.com/user-attachments/assets/7079cacb-a2a7-405c-ab8f-f3eb56c332d9" />
 
 Add data source as S3 bucket with documents uploaded
 <img width="728" height="552" alt="DataStore2" src="https://github.com/user-attachments/assets/8abb8014-ce7d-4a11-a51e-93efeebfa459" />
