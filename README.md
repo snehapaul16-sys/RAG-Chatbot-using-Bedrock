@@ -20,7 +20,7 @@ Add data source as S3 bucket with documents uploaded
 <img width="739" height="675" alt="embeddingsModal and Vector store3" src="https://github.com/user-attachments/assets/cb21a95a-97ad-45a2-a63a-ffa88e4596ff" />
 
 sync your documents from S3 to the Knowledge Base and Test
-<img width="888" height="863" alt="RAG_Chatbot4" src="https://github.com/user-attachments/assets/5ab51fa0-c65a-4970-9901-154f555690a4" />
+<img width="888" height="813" alt="RAG_Chatbot4" src="https://github.com/user-attachments/assets/19416ef5-aade-402e-8492-bd1c2d95bd44" />
 
 Ask questions not present in the documents uploaded
 <img width="907" height="667" alt="rag_outofcontext5" src="https://github.com/user-attachments/assets/52ab662a-2b09-45a3-91ea-28889ba8c774" />
